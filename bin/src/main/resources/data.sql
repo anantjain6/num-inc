@@ -1,0 +1,1 @@
+insert into number value(0);
